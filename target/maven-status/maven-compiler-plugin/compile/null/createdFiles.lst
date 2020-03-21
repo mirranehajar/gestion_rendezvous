@@ -1,0 +1,4 @@
+org\mirrane\service\SecretaryService.class
+org\mirrane\dao\SecretaryDaoImp.class
+org\mirrane\model\Secretary.class
+org\mirrane\dao\SecretaryDao.class
